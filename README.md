@@ -64,4 +64,9 @@ Comparaison entre les **prédictions du modèle** et les **cours réellement tom
   - **Cardiovasculaire**
   - **Rhumatologie**
 
-➡️ Résultat cohérent avec l’analyse heuristique et les graphiques fréquence × ancienneté.
+➡️ Résultat cohérent avec l’analyse heuristique et les graphiques fréquence × ancienneté:
+<img width="889" height="589" alt="prédiction 2025" src="https://github.com/user-attachments/assets/b77a53b9-46f4-4b3c-88b5-3fc8e47686b7" />
+
+
+
+
